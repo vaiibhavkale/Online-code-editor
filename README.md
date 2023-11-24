@@ -1,7 +1,9 @@
 # CodeEditor
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
-Do npm install and npm install sass before starting development server.
+Do `npm install` and `npm install sass` before starting development server. 
+Your node version should be `>= v16.20.1`
+Your angular cli version should be `>=15`
 
 ## Development server
 
